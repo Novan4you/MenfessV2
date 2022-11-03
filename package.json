@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Lexxy Official",
+  "author": "Novan 4you",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
